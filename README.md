@@ -25,7 +25,7 @@ A collection of my solutions to the weekly tasks assigned as part of my journey 
 
 ### Week 2 - 🐍OOP in Python
 * Data_Lab_System.py — Mini OOP data lab: filter, merge & analyze datasets using pure Python
-* Advanced_Python_Task.ipynb - The task
+* Advanced_Python_Task.ipynb — The task
 * README.md — Project documentation
 
 ### Week 3 - 🔢Numpy
